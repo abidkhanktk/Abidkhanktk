@@ -127,28 +127,3 @@
 </p>
 
 <!-- GitHub Stats -->
-<div
-  style="
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 10px;
-    margin: 20px 0;
-  "
->
-  <img
-    style="max-width: 100%"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=abidkhanktk&show_icons=true&locale=en&layout=compact"
-    alt="Top Languages"
-  />
-  <img
-    style="max-width: 100%"
-    src="https://github-readme-stats.vercel.app/api?username=abidkhanktk&show_icons=true&locale=en"
-    alt="GitHub Stats"
-  />
-  <img
-    style="max-width: 100%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abidkhanktk&"
-    alt="GitHub Streak"
-  />
-</div>
