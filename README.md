@@ -1,36 +1,74 @@
-<h1 align="center">Hi 👋, I'm Abidkhanktk</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 style="text-align: center; font-family: Arial, sans-serif; color: #333">
+  Hi 👋, I'm Abidkhanktk
+</h1>
+<h3 style="text-align: center; font-family: Arial, sans-serif; color: #555">
+  A passionate frontend developer from Pakistan
+</h3>
 
-<img src="img/Animated.gif" style="margin-left: 350px" alt="" />
+<img
+  src="img/Animated.gif"
+  style="display: block; margin: 20px auto; max-width: 100%; height: auto"
+  alt="Animated"
+/>
 
-<p align="left">
+<!-- Profile Views -->
+<p
+  style="
+    text-align: left;
+    font-family: Arial, sans-serif;
+    color: #444;
+    margin-bottom: 10px;
+  "
+>
+  <strong>Profile views:</strong>
   <img
     src="https://komarev.com/ghpvc/?username=abidkhanktk&label=Profile%20views&color=0e75b6&style=flat"
-    alt="abidkhanktk"
+    alt="Profile views"
+    style="vertical-align: middle"
   />
 </p>
 
-- ⚡ Fun fact **I am funny**
+<!-- Fun Fact -->
+<p style="font-family: Arial, sans-serif; color: #444; margin-bottom: 20px">
+  ⚡ <strong>Fun fact:</strong> I am funny 😄
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+<!-- Connect With Me -->
+<h3 style="font-family: Arial, sans-serif; color: #333; margin-bottom: 10px">
+  Connect with me:
+</h3>
+<p style="font-family: Arial, sans-serif; color: #555; margin-bottom: 20px">
+  [Add your social media links here]
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<!-- Languages and Tools -->
+<h3 style="font-family: Arial, sans-serif; color: #333; margin-bottom: 10px">
+  Languages and Tools:
+</h3>
+<p
+  style="
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  "
+>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
+      alt="CSS3"
+      style="width: 40px; height: 40px"
     />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
+      alt="HTML5"
+      style="width: 40px; height: 40px"
     />
   </a>
   <a
@@ -40,81 +78,77 @@
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
+      alt="JavaScript"
+      style="width: 40px; height: 40px"
     />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
+      alt="MongoDB"
+      style="width: 40px; height: 40px"
     />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
+      alt="MySQL"
+      style="width: 40px; height: 40px"
     />
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
+      alt="Next.js"
+      style="width: 40px; height: 40px"
     />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
+      alt="Node.js"
+      style="width: 40px; height: 40px"
     />
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
+      alt="PHP"
+      style="width: 40px; height: 40px"
     />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
+      alt="React"
+      style="width: 40px; height: 40px"
     />
   </a>
 </p>
 
-<p>
+<!-- GitHub Stats -->
+<div
+  style="
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin: 20px 0;
+  "
+>
   <img
-    align="left"
+    style="max-width: 100%"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=abidkhanktk&show_icons=true&locale=en&layout=compact"
-    alt="abidkhanktk"
+    alt="Top Languages"
   />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=abidkhanktk&show_icons=true&locale=en"
-    alt="abidkhanktk"
-  />
-</p>
-
-<p>
   <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abidkhanktk&"
-    alt="abidkhanktk"
+    style="max-width: 100%"
+    src="https://github-readme-stats.vercel.app/api?username=abidkhanktk&show_icons=true&locale=en"
+    alt="GitHub Stats"
   />
-</p>
+  <img
+    style="max-width: 100%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abidkhanktk&"
+    alt="GitHub Streak"
+  />
+</div>
