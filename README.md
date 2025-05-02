@@ -33,14 +33,6 @@
   ⚡ <strong>Fun fact:</strong> I am funny 😄
 </p>
 
-<!-- Connect With Me -->
-<h3 style="font-family: Arial, sans-serif; color: #333; margin-bottom: 10px">
-  Connect with me:
-</h3>
-<p style="font-family: Arial, sans-serif; color: #555; margin-bottom: 20px">
-  [Add your social media links here]
-</p>
-
 <!-- Languages and Tools -->
 <h3 style="font-family: Arial, sans-serif; color: #333; margin-bottom: 10px">
   Languages and Tools:
